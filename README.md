@@ -10,4 +10,3 @@ Each project is organized in its own folder with a dedicated README.
 
 - [two-tier-flask-app](./two-tier-flask-app/) - Basic two tier web application using Flask and MYSQL deployed using Docker Compose.
 
-- [three-tier-django-app](./three-tier-django-app) - Basic Notes App with a 3 tier architecture using NGINX reverse proxy, Django and MySQL deployed using Docker Compose. 
