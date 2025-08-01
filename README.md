@@ -1,6 +1,6 @@
 # Docker Projects
 
-A collection of hands-on Docker projects for learning and showcasing containerization concepts, best practices, and DevOps workflows. VThis repository includes projects ranging from basic static website deployment to multi-container applications using Docker Compose.
+A collection of hands-on Docker projects for learning and showcasing containerization concepts, best practices, and DevOps workflows. This repository includes projects ranging from basic static website deployment to multi-container applications using Docker Compose.
 
 Each project is organized in its own folder with a dedicated README.
 
