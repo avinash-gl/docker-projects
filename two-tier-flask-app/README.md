@@ -28,8 +28,8 @@ Everything runs in isolated containers to simulate a real-world deployment.
 1. Clone the Repository
 
 ```bash
-https://github.com/avinash-gl/2tier-flask-app-docker.git
-cd 2tier-flask-app-docker
+https://github.com/avinash-gl/docker-projects.git
+cd docker-projects/two-tier-flask-app
 ```
 
 2. Build and run using Docker compose 
