@@ -24,8 +24,8 @@ EXPOSE 80
 
 1. Clone the Repository
 ```docker
-git clone https://github.com/avinash-gl/docker-nginx-container.git
-cd docker-nginx-container
+git clone https://github.com/avinash-gl/docker-projects.git
+cd docker-projects/nginx-docker
 ``` 
 
 2. 🔧 Build the Docker Image
